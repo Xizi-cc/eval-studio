@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./docs/assets/brand-hero.png" alt="Eval Studio — modular evaluation console" width="100%" />
-
   <h1>Eval Studio</h1>
 
   **Compose evaluation. Don’t configure it.**
